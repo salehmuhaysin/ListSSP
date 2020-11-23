@@ -17,3 +17,6 @@ int main(int argc, char** argv) {
 	}
 	
 }
+
+
+// when compiling the code, make sure to add the Secur32.lib to the linker
