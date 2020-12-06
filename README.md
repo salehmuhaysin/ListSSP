@@ -24,3 +24,8 @@ Schannel,Schannel Security Package,4261811,1,14
 Microsoft Unified Security Protocol Provider,Schannel Security Package,4261811,1,14
 Default TLS SSP,Schannel Security Package,4261811,1,14
 ```
+
+
+# Read more
+https://blog.xpnsec.com/exploring-mimikatz-part-2/
+
